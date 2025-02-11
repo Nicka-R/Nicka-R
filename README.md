@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicka-R
-- 👀 I’m a 3rd year student in computer science at the Nancy Charlemagne IUT, I'm currently in a work-study program 
+- 👀 I’m a 3rd year student in computer science at the Nancy Charlemagne IUT, I'm currently in a work-study program as a web developper junior
 - 💞️ I’m currently speciliazing in web development 
 
 <!---
